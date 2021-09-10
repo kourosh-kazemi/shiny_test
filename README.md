@@ -1,2 +1,1 @@
-# shiny_test
-Test
+# exempleShinyApp
