@@ -5,6 +5,7 @@
   text-decoration: underline;
 }
 
+
 .titleBand {
     text-align: center;
     padding: 40px;
