@@ -15,5 +15,7 @@ shinyUI(fluidPage(
                                                             hr(),
                                                             actionButton("launchGraph", "Lancer !")))),
         column(9, shiny::tags$div(plotOutput("hospPlot")))
+        
+        
     )
 ))
